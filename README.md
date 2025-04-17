@@ -14,7 +14,7 @@ This script reads electronic band structure data from .bxsf files (commonly gene
 ✔ Interactive 3D Plot – Rotate, zoom, and explore the Fermi surface in real-time
 
 ## Example Output
-Fermi Surface Visualization (Replace with an actual screenshot of your plot!)
+![3D Fermi Surface Visualization](fs_bxsf_sample.png)
 
 ## How It Works
 Reads BXSF file – Parses band structure data, Fermi energy, and reciprocal lattice
